@@ -14,11 +14,11 @@ If you want to modify or see the code:
 
 
 Some Image of how it work, it test with a F1 track:
-
+GUI:
 ![image](https://github.com/BaroneGiallo/From-Image-to-Array-of-Coordinates/assets/96001978/d7e77957-8062-4003-abb3-0d18c30ffab7)
 
+Coordinates File:
 ![image](https://github.com/BaroneGiallo/From-Image-to-Array-of-Coordinates/assets/96001978/d7d9f487-e0d0-4e4e-969d-e42d4fbfc447)
-
 
 
 Please contact me if you ave some problem or modification.
