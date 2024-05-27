@@ -1,0 +1,10 @@
+C:\Users\Martin Matasci\OneDrive - edu.ti.ch\File\Visual studio Program\CoordinateToArray\CoordinateToArray\bin\Debug\CoordinateToArray.exe.config
+C:\Users\Martin Matasci\OneDrive - edu.ti.ch\File\Visual studio Program\CoordinateToArray\CoordinateToArray\bin\Debug\CoordinateToArray.exe
+C:\Users\Martin Matasci\OneDrive - edu.ti.ch\File\Visual studio Program\CoordinateToArray\CoordinateToArray\bin\Debug\CoordinateToArray.pdb
+C:\Users\Martin Matasci\OneDrive - edu.ti.ch\File\Visual studio Program\CoordinateToArray\CoordinateToArray\obj\Debug\CoordinateToArray.csproj.AssemblyReference.cache
+C:\Users\Martin Matasci\OneDrive - edu.ti.ch\File\Visual studio Program\CoordinateToArray\CoordinateToArray\obj\Debug\CoordinateToArray.Form1.resources
+C:\Users\Martin Matasci\OneDrive - edu.ti.ch\File\Visual studio Program\CoordinateToArray\CoordinateToArray\obj\Debug\CoordinateToArray.Properties.Resources.resources
+C:\Users\Martin Matasci\OneDrive - edu.ti.ch\File\Visual studio Program\CoordinateToArray\CoordinateToArray\obj\Debug\CoordinateToArray.csproj.GenerateResource.cache
+C:\Users\Martin Matasci\OneDrive - edu.ti.ch\File\Visual studio Program\CoordinateToArray\CoordinateToArray\obj\Debug\CoordinateToArray.csproj.CoreCompileInputs.cache
+C:\Users\Martin Matasci\OneDrive - edu.ti.ch\File\Visual studio Program\CoordinateToArray\CoordinateToArray\obj\Debug\CoordinateToArray.exe
+C:\Users\Martin Matasci\OneDrive - edu.ti.ch\File\Visual studio Program\CoordinateToArray\CoordinateToArray\obj\Debug\CoordinateToArray.pdb
