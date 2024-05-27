@@ -1,4 +1,4 @@
-# From-Image-to-Array-of-Coordinates
+# From Image to Array of Coordinates
 
 If you want just use the program, follow this steps:
 1. Execute the CoordinateToArray.exe file
